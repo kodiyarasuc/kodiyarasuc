@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Mongo DB , Express JS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-userinterface-website.netlify.app/](https://portfolio-userinterface-website.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/kodiyarasuc])
 
 - 💬 Ask me about **React , MERN Stack**
 
